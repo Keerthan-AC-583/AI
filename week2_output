@@ -1,0 +1,16 @@
+
+Step 1:
+Agent at Left: Location is dirty -> CLEAN
+Environment state: {'Left': False, 'Right': True}
+
+Step 2:
+Agent at Left: Location is clean -> MOVE to Right
+Environment state: {'Left': False, 'Right': True}
+
+Step 3:
+Agent at Right: Location is dirty -> CLEAN
+Environment state: {'Left': False, 'Right': False}
+
+Step 4:
+Agent at Right: Location is clean -> MOVE to Left
+Environment state: {'Left': False, 'Right': False}
