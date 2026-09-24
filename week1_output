@@ -1,0 +1,81 @@
+
+           |   |  
+        ---|---|---
+           |   |  
+        ---|---|---
+           |   |  
+
+
+Player X, choose position (1-9): 2
+
+
+           | X |  
+        ---|---|---
+           |   |  
+        ---|---|---
+           |   |  
+
+
+Player O, choose position (1-9): 1
+
+
+         O | X |  
+        ---|---|---
+           |   |  
+        ---|---|---
+           |   |  
+
+
+Player X, choose position (1-9): 3
+
+
+         O | X | X
+        ---|---|---
+           |   |  
+        ---|---|---
+           |   |  
+
+
+Player O, choose position (1-9): 5
+
+
+         O | X | X
+        ---|---|---
+           | O |  
+        ---|---|---
+           |   |  
+
+
+Player X, choose position (1-9): 4
+
+
+         O | X | X
+        ---|---|---
+         X | O |  
+        ---|---|---
+           |   |  
+
+
+Player O, choose position (1-9): 5
+Position already taken! Try again.
+
+
+         O | X | X
+        ---|---|---
+         X | O |  
+        ---|---|---
+           |   |  
+
+
+Player O, choose position (1-9): 9
+
+
+         O | X | X
+        ---|---|---
+         X | O |  
+        ---|---|---
+           |   | O
+
+
+🎉 Player O wins!
+PS C:\Users\admin\Music\133_AC> 
